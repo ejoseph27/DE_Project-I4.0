@@ -16,8 +16,4 @@ In this project, completely standalone and modular factory components are develo
 Additional Information
 
 The digital engineering project was a combined effort from fellow groupmates
-Mr. Chaitanya Sankaramanchi 
-Mr. Elvis Joseph 
-Mr. Naveen Kumar Pesaru 
-Mr. Srivamsi Malladi 
-Mr. Sri Girish Tangirala
+Mr. Chaitanya Sankaramanchi, Mr. Elvis Joseph , Mr. Naveen Kumar Pesaru , Mr. Srivamsi Malladi  and Mr. Sri Girish Tangirala

@@ -22,4 +22,4 @@ Mr. Chaitanya Sankaramanchi, Mr. Elvis Joseph , Mr. Naveen Kumar Pesaru , Mr. Sr
 
 Simulation : https://youtu.be/eCzBNNIg27U
 
-Recorded Presentation : 
+Recorded Presentation : https://youtu.be/DGqPBJ8Rr7c

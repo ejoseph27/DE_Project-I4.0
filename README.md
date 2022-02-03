@@ -17,3 +17,9 @@ Additional Information
 
 The digital engineering project was a combined efforts of groupmates
 Mr. Chaitanya Sankaramanchi, Mr. Elvis Joseph , Mr. Naveen Kumar Pesaru , Mr. Srivamsi Malladi  and Mr. Sri Girish Tangirala
+
+## Demo video
+
+Simulation : https://youtu.be/eCzBNNIg27U
+
+Recorded Presentation : 

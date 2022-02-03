@@ -6,7 +6,17 @@ In the present industrial ecosystem, the demand from customers is continuously c
 
 In this project, completely standalone and modular factory components are developed, each with an independent controller. The factory layouts are developed with production, storage and dispatch areas. The control flow in the factory layout is developed by simulating a virtual model in Visual Components and realised as a physical layout implementing different communication protocols.
  
+ 
+ Achievements
 
 •	Successfully built and integrated different communication protocol such as UART, Bluetooth, LiFi, IR, nRF on modular factory layout to realize smart manufacturing. A virtual      model of the factory was simulated on Visual Components 4.0 software.
 
 •	Learned embedded systems programming in C, concepts of digital twin and smart manufacturing.
+
+Comments
+The digital engineering project was a combined effort from fellow groupmates
+Mr. Chaitanya Sankaramanchi 
+Mr. Elvis Joseph 
+Mr. Naveen Kumar Pesaru 
+Mr. Srivamsi Malladi 
+Mr. Sri Girish Tangirala

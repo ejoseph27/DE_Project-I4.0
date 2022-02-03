@@ -14,6 +14,7 @@ In this project, completely standalone and modular factory components are develo
 •	Learned embedded systems programming in C, concepts of digital twin and smart manufacturing.
 
 Comments
+
 The digital engineering project was a combined effort from fellow groupmates
 Mr. Chaitanya Sankaramanchi 
 Mr. Elvis Joseph 
